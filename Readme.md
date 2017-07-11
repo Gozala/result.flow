@@ -1,6 +1,6 @@
 # result.flow
 [![travis][travis.icon]][travis.url]
-[![package][version.icon]![downloads][downloads.icon]][package.url]
+[![package][version.icon] ![downloads][downloads.icon]][package.url]
 [![styled with prettier][prettier.icon]][prettier.url]
 
 
