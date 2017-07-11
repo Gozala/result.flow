@@ -1,4 +1,4 @@
-# Result.flow
+# result.flow
 [![travis][travis.icon]][travis.url]
 [![package][version.icon]![downloads][downloads.icon]][package.url]
 [![styled with prettier][prettier.icon]][prettier.url]
@@ -360,16 +360,16 @@ This library is inspired by:
 [Result.elm]:http://package.elm-lang.org/packages/elm-lang/core/latest/Result
 [Result.rst]:https://doc.rust-lang.org/std/result/enum.Result.html
 
-[travis.icon]: https://travis-ci.org/Gozala/Result.flow.svg?branch=master
-[travis.url]: https://travis-ci.org/Gozala/Result.flow
+[travis.icon]: https://travis-ci.org/Gozala/result.flow.svg?branch=master
+[travis.url]: https://travis-ci.org/Gozala/result.flow
 
-[version.icon]: https://img.shields.io/npm/v/Result.flow.svg
-[downloads.icon]: https://img.shields.io/npm/dm/Result.flow.svg
-[package.url]: https://npmjs.org/package/Result.flow
+[version.icon]: https://img.shields.io/npm/v/result.flow.svg
+[downloads.icon]: https://img.shields.io/npm/dm/result.flow.svg
+[package.url]: https://npmjs.org/package/result.flow
 
 
-[downloads.image]: https://img.shields.io/npm/dm/Result.flow.svg
-[downloads.url]: https://npmjs.org/package/Result.flow
+[downloads.image]: https://img.shields.io/npm/dm/result.flow.svg
+[downloads.url]: https://npmjs.org/package/result.flow
 
 [prettier.icon]:https://img.shields.io/badge/styled_with-prettier-ff69b4.svg
 [prettier.url]:https://github.com/prettier/prettier
