@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "name": "result.flow",
   "description": "Library for representing the typed result of a computation.",
   "keywords": ["Result.flow", "typed", "flow"],
