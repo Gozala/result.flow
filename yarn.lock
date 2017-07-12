@@ -2320,9 +2320,9 @@ markdown-table@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/markdown-table/-/markdown-table-1.1.0.tgz#1f5ae61659ced8808d882554c32e8b3f38dd1143"
 
-maybe.flow@0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/maybe.flow/-/maybe.flow-0.2.1.tgz#a1d82cd569bc1037889bab8fe29f8e9ef2fdb33e"
+maybe.flow@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/maybe.flow/-/maybe.flow-0.3.0.tgz#2fe472009237e32af93bdc9ba88ce9f98f9c81df"
 
 mdast-util-compact@^1.0.0:
   version "1.0.1"

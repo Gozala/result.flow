@@ -1,8 +1,12 @@
 {
-  "version": "0.1.1",
+  "version": "0.2.0",
   "name": "result.flow",
   "description": "Library for representing the typed result of a computation.",
-  "keywords": ["Result.flow", "typed", "flow"],
+  "keywords": [
+    "Result.flow",
+    "typed",
+    "flow"
+  ],
   "main": "lib/Result",
   "module": "src/Result",
   "author": "Irakli Gozalishvili <rfobic@gmail.com> (http://jeditoolkit.com)",
@@ -35,9 +39,12 @@
     "start": "babel --watch --out-dir lib src & flow-copy-source --watch --verbose src lib"
   },
   "lint-staged": {
-    "*.js": ["prettier --parser flow --no-semi --write", "git add"]
+    "*.js": [
+      "prettier --parser flow --no-semi --write",
+      "git add"
+    ]
   },
   "dependencies": {
-    "maybe.flow": "0.2.1"
+    "maybe.flow": "^0.3.0"
   }
 }
